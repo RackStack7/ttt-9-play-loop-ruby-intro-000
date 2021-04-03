@@ -14,4 +14,3 @@ counter += 1
 play(board)
 until counter == 9
 break
-end
